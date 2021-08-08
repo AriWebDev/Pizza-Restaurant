@@ -1,1 +1,1 @@
-Pizza Restaurant made with React JS, Redux and JSON server for storing pizzas' database.
+Pizza Restaurant made using React JS, Redux for frontend and JSON server for the backend to store pizzas' database.
